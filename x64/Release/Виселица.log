@@ -1,0 +1,16 @@
+﻿  chosing.cpp
+C:\Users\степан\Desktop\программирование\Виселица\chosing.cpp(11,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  drawing.cpp
+  filtr.cpp
+  finish.cpp
+  game.cpp
+C:\Users\степан\Desktop\программирование\Виселица\game.cpp(53,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  rules.cpp
+C:\Users\степан\Desktop\программирование\Виселица\rules.cpp(23,87): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  start.cpp
+  Виселица.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 252 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Виселица.vcxproj -> C:\Users\степан\Desktop\программирование\Виселица\x64\Release\Виселица.exe
